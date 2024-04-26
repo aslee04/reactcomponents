@@ -1,0 +1,4 @@
+Proyektni ishga tushurish uchun terminalda:
+
+1) npm install - NODE_MODULESni o'rnatadi
+2) npm start - proyektga start beradi
